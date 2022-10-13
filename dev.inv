@@ -1,2 +1,2 @@
 [qa-server]
-172.31.36.6 ansible_user=ec2-user
+172.31.7.144 ansible_user=ec2-user
